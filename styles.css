@@ -1,3 +1,11 @@
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+    background-color: white;
+}
+
 /* Base styles for mobile */
 body {
     font-family: Arial, sans-serif;
